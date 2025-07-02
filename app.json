@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {KANGO~wy9VQahR#rFa0tk4hOPEeV5TgNEG_KWkGqPXDQOsXSqSDZEQ9boE
       "description": "Enter your kango session id here; must start with KANGO~",
       "value": "",
       "required": false
